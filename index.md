@@ -1,14 +1,14 @@
-Privacy Policy for Madhi Sudi
+Madhi Sudi - Privacy Policy and Support
 
 Effective Date: July 17, 2026
+
+Privacy Policy
 
 The Madhi Sudi app is a devotional tool built to provide access to Tamil hymns. This Privacy Policy outlines our commitment to your privacy.
 
 Information Collection
 
-The Madhi Sudi app does not collect, store, or share any personal information.
-
-Our application uses Firebase Firestore as a backend service strictly to retrieve content (such as hymn lyrics and text). This service is used solely for the delivery of app content to the user's device. The application does not collect device identifiers, IP addresses, browsing history, or any other personally identifiable information (PII).
+The Madhi Sudi app does not collect, store, or share any personal information. Our app uses Firebase Firestore as a backend service strictly to retrieve content (such as hymn lyrics and text). This service is used solely for the delivery of app content to the user's device. The application does not collect device identifiers, IP addresses, browsing history, or any other personally identifiable information (PII).
 
 Cookies and Tracking
 
@@ -18,14 +18,22 @@ Children’s Privacy
 
 The application does not knowingly solicit or collect data from children, nor does it market to them.
 
-Changes to This Policy
+Privacy Contact
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+If you have any questions or suggestions about our Privacy Policy, please contact us at:
+Email: madhisudi2@gmail.com
 
 Support
 
 If you have any questions, suggestions, or need assistance with the Madhi Sudi app, please feel free to reach out to our support team.
 
+We aim to respond to all inquiries within 48 hours.
+
+Support Contact
+
+For technical support or general assistance, please contact us at:
 Email: madhisudi2@gmail.com
 
-We aim to respond to all inquiries within 48 hours.
+Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
