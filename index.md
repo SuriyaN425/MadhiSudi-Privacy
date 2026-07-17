@@ -22,8 +22,10 @@ Changes to This Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-Contact Us
+Support
 
-If you have any questions or suggestions about our Privacy Policy, please contact us at:
+If you have any questions, suggestions, or need assistance with the Madhi Sudi app, please feel free to reach out to our support team.
 
 Email: madhisudi2@gmail.com
+
+We aim to respond to all inquiries within 48 hours.
