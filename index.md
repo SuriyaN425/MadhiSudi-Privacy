@@ -17,6 +17,7 @@ The Madhi Sudi app uses Firebase Crashlytics to help us identify and fix technic
 Cookies and Tracking
  
 The Madhi Sudi app does not use cookies, tracking pixels, or any third-party advertising or marketing SDKs. Firebase Crashlytics, described above, is used solely for crash and diagnostic reporting — it does not track your activity across other apps or websites.
+
 Children’s Privacy
 
 The application does not knowingly solicit or collect data from children, nor does it market to them.
